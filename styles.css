@@ -1,0 +1,31 @@
+body{
+  background-color:#95e1d3;
+
+}
+hr{
+
+  border-style: none;
+  border-top-style:dotted;
+  border-color:grey;
+
+   border-width=10%;
+   width:5%;
+
+ }
+
+ h1 {
+   color: voilet;
+ }
+
+ h3
+ {
+   color: voilet;
+ }
+
+img {
+  background-color: red;
+}
+
+.abc:hover {
+  color: red;
+}
